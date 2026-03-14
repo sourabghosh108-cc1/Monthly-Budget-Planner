@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+
 using namespace std;
 
 int main() {
@@ -37,8 +38,12 @@ int main() {
     if (remaining > 0) {
         cout << "Remaining budget: " << remaining << endl;
     } else {
-        cout << "You exceeded your budget by " << abs(remaining) << endl;
+        cout << "You exceeded your budget by " << fabs(remaining) << endl;
     }
+
+    cout << "\nPress Enter to exit...";
+    cin.ignore();
+    cin.get();
 
     return 0;
 }

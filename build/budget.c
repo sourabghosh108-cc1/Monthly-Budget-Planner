@@ -36,8 +36,12 @@ int main() {
     if (remaining > 0) {
         printf("Remaining budget: %.2f\n", remaining);
     } else {
-        printf("You exceeded your budget by %.2f\n", abs((int)remaining));
+        printf("You exceeded your budget by %.2f\n", -remaining);
     }
+
+    printf("\nPress Enter to exit...");
+    getchar();  // clear buffer
+    getchar();  // wait for user
 
     return 0;
 }
