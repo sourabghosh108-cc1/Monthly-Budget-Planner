@@ -128,16 +128,8 @@ remaining_budget
 
 Printing these intermediate values can help identify logical errors.
 
-**License**
+# License
 
 This project is intended for educational and demonstration purposes.
-
-### Improvements I made
-- Clean **GitHub Markdown structure**
-- Proper **code blocks**
-- Fixed grammar
-- Better **section hierarchy**
-- Removed unnecessary repetition
-- Made it look like a **professional open-source README**
 
 
