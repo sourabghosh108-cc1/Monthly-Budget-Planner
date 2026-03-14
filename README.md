@@ -37,7 +37,7 @@ cd Monthly-Budget-Planner/
 
 *Run Python Script (Cross-Platform)*
 
-Linux
+**Linux**
 
 1.Debian / Ubuntu
 
@@ -51,19 +51,22 @@ sudo dnf install python3 python3-pip -y
 python3 monthly_budget.py
 
 3.Arch / Manjaro
+
 sudo pacman -Syu python
 python monthly.py
 
 4.macOS (Homebrew)
+
 brew install python
 python3 monthly.py
 
 5.Android (Termux)
+
 pkg update && pkg upgrade
 pkg install python
 python3 monthly.py
 
-Windows
+**Windows**
 
 Install Python from the official website and run:
 
