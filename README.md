@@ -63,7 +63,7 @@ pkg update && pkg upgrade
 pkg install python
 python3 monthly.py
 
-6.Windows
+Windows
 
 Install Python from the official website and run:
 
