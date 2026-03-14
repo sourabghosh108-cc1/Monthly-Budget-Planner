@@ -55,12 +55,12 @@ python3 monthly_budget.py
 sudo pacman -Syu python
 python monthly.py
 
-4.macOS (Homebrew)
+**macOS (Homebrew)**
 
 brew install python
 python3 monthly.py
 
-5.Android (Termux)
+**Android (Termux)**
 
 pkg update && pkg upgrade
 pkg install python
