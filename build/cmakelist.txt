@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.10)
+
+project(MonthlyBudgetPlanner C CXX)
+
+set(CMAKE_C_STANDARD 99)
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(budget_c budget_c.c)
+add_executable(budget_cpp budget_cpp.cpp)
