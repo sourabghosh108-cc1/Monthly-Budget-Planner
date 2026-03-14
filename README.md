@@ -91,7 +91,8 @@ Download:
 https://drive.google.com/file/d/1WkPB-VYj6coWhW_jGTuS8UGwycGA3wMm/view?usp=sharing
 
 Simply double-click the file to run.
-No Python installation is required.
+You may need Python Installed.
+
 
 **Android Application**
 
@@ -101,6 +102,7 @@ https://drive.google.com/file/d/1xqGc1P1RtDqo_62Fl0RCpDlGI_b_YTKx/view?usp=shari
 
 Install on Android devices.
 You may need to enable "Install from Unknown Sources" in your device settings.
+And also Bypass Google Play Protection as its not yet verified or available
 
 **Debugging**
 
